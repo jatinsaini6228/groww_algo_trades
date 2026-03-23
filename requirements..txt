@@ -1,0 +1,4 @@
+growwapi>=0.0.8
+numpy
+pandas
+pyotp
